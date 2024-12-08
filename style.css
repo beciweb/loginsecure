@@ -1,0 +1,13 @@
+/* styles.css */
+
+/* Add your custom styles here */
+/* styles.css */
+
+/* Center the login button vertically and horizontally */
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Add your custom styles here */
